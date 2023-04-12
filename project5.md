@@ -1,5 +1,5 @@
 # Client-Server Architecture Using mysql RDMS#
-## TASK — Implement a Client Server Architecture using MySQL Database Management System (DBMS).
+## TASK — Implement a Client-Server Architecture using MySQL Database Management System (DBMS).
 ### Steps
 1. Spin up two Linux-based virtual servers (EC2 instances in AWS) and name them:  server and  client respectively.(Can use userdata to update)
 2. Run sudo apt update -y for latest updates on server.
